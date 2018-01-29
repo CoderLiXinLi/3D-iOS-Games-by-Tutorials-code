@@ -16,9 +16,9 @@
 
 此书的**学习体会**和**部分翻译**见系列文章,仅供参考:
 
-[Hello SceneKit](https://juejin.im/post/5a322530f265da43062ac948a)
+[Hello SceneKit](https://juejin.im/post/5a322530f265da43062ac948)
 
-[SceneKit学习专题](http://www.jianshu.com/c/c85af5c76c47)
+[SceneKit学习专题](https://juejin.im/collection/5a3236ecf265da068948554a)
 
 ---
 
