@@ -21,6 +21,7 @@
 [SceneKit学习专题](https://juejin.im/collection/5a3236ecf265da068948554a)
 
 ---
+更多ARKit相关内容,参考[ARKit系列文章](https://xiaozhuanlan.com/ARKit)
 
 关注我们的公众号:iOSWeekWeekUp,还有每周更新计划[WeekWeekUpProject](https://github.com/WeekWeekUp/WeekWeekUpProject)获取及时更新
 
